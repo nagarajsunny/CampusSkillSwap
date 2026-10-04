@@ -1,0 +1,6 @@
+{
+  "name": "CampusSkillSwap - Peer-to-Peer Student Skill Exchange",
+  "description": "Connect with fellow students to exchange skills 1-on-1. Teach what you excel at, learn what you desire, find reciprocal matches, send swap proposals, and earn trusted peer ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
